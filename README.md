@@ -23,9 +23,9 @@ Cara menjalankan frontend
 6. Laporan Keuangan
 
 # Fitur-Fitur yang sudah dikerjakan
-1. Halaman home Dasboard![1](https://user-images.githubusercontent.com/91866136/225192984-8a7a77ad-9de8-4119-bb4e-486385f0ced6.JPG)
-2. Halaman Tambah Barang![2](https://user-images.githubusercontent.com/91866136/225193304-376c5d7d-9583-4b60-9bc9-ae138b317cab.JPG)
-3. Halaman List Data barang![3](https://user-images.githubusercontent.com/91866136/225193380-4f8b0117-55dd-431e-bb4f-b71e55401de9.JPG)
-4. Halaman List Stok Masuk ![4](https://user-images.githubusercontent.com/91866136/225193500-36af68f7-fbe4-4358-833b-a1670fbfe8d8.JPG)
-5. Halaman POS ![5](https://user-images.githubusercontent.com/91866136/225193569-a7d07af0-7e7a-4c81-bb1e-2e288cd70142.JPG)
-6. Halaman Data Penjualan / Invoice ![6](https://user-images.githubusercontent.com/91866136/225193667-b72fb058-4caf-4075-a67d-08deb94eb62b.JPG)
+1. Halaman home Dasboard![1](https://user-images.githubusercontent.com/91866136/229036508-3b5cf642-bb27-42e4-80e7-06500e24e242.JPG)
+2. Halaman Tambah Produk![3](https://user-images.githubusercontent.com/91866136/229036572-7234ab2b-651a-407c-8218-f5a52d39fb87.JPG)
+3. Halaman List Data Produk!![2](https://user-images.githubusercontent.com/91866136/229036640-bcd1267f-385a-4b68-9a21-46b342e710c1.JPG)
+4. Halaman List Stok Masuk![4](https://user-images.githubusercontent.com/91866136/229036746-c1a66d03-a29b-4ee0-abea-4d1f3595e721.JPG))
+5. Halaman POS![5](https://user-images.githubusercontent.com/91866136/229036789-c1b9effc-d0e5-4e94-b7da-f589ade59349.JPG)
+6. Halaman Data Penjualan / Invoice![6](https://user-images.githubusercontent.com/91866136/229036826-8cc5736d-8e83-4005-b79d-3f17169024b2.JPG)
