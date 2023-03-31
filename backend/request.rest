@@ -1,0 +1,37 @@
+GET http://localhost:5000/products?search_query=sabun&page=0&limit=10
+
+###
+GET http://localhost:5000/products/5
+
+###
+POST http://localhost:5000/products
+Content-Type: application/json
+
+{
+    "kodeProduk": "BRG0002",
+    "namaProduk": "Sabun Lifebuoy Lemon",
+    "kategori": "Sabun",
+    "stok": "100",
+    "expired": "2025-03-01",
+    "hargaBeli": "2000",
+    "hargaJual": "3000",
+    "satuan": "pcs"
+}
+
+###
+PATCH  http://localhost:5000/products/1
+Content-Type: application/json
+
+{
+    "kode_produk": "BRG0002",
+    "nama_produk": "Sabun Lifebuoy Anggur",
+    "kategori": "Sabun",
+    "stok": "100",
+    "expired": "2025-03-01",
+    "harga_beli": "2000",
+    "harga_jual": "3000",
+    "satuan": "pcs"
+}
+
+###
+DELETE http://localhost:5000/products/4
